@@ -1,5 +1,6 @@
 package br.edu.ifnmg.cateiraacoes;
 
+import br.edu.ifnmg.cateiraacoes.Observador;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

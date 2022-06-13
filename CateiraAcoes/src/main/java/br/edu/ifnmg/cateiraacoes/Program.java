@@ -1,5 +1,7 @@
 package br.edu.ifnmg.cateiraacoes;
 
+import br.edu.ifnmg.cateiraacoes.GraficoBarras;
+
 /**
  *
  * @author Rikelme

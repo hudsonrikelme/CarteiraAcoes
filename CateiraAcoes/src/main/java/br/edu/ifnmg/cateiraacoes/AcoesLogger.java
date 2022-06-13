@@ -1,6 +1,8 @@
 
 package br.edu.ifnmg.cateiraacoes;
 
+import br.edu.ifnmg.cateiraacoes.Observador;
+
 /**
  *Observa mudancas nas quantidades e registra no console
  * @author Rikelme
